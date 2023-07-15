@@ -1,6 +1,6 @@
  <!DOCTYPE html>
 <html> 
-    <p> <head>Probe</head><br>
+    <div><p> <head>Probe</head><br>
     <button>Start</button><br><br><br>
-    <button>Finish</button></p>
+    <button>Finish</button></p></div>
 </html>
