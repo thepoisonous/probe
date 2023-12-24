@@ -5,8 +5,12 @@
 <head>Probe</head>
 <br>
 <a href="https://www.freeimages.com/premium/comic-cartoon-spaceship-585751">pict</a>
-    <button>Start</button>
-<br><br><br>
+    <button></button>
+<br><br><br>  <script>
+      function myFunction() {
+        document.getElementById("demo").innerHTML = "Start";
+      }
+    </script>
     <button>Finish</button>
 </p></div>
 </html>
