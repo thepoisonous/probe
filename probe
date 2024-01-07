@@ -1,6 +1,7 @@
  <!DOCTYPE html>
 <html lang="eng"> 
- <title>probe</title>   <div>
+ <body>
+<title>probe</title>   <div>
 <p>
 <head>Probe</head>
 <br>
@@ -13,4 +14,5 @@
     </script>
     <button>Finish</button>
 </p></div>
+</body>
 </html>
