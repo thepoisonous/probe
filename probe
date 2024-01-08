@@ -1,12 +1,14 @@
  <!DOCTYPE html>
 <html lang="eng"> 
- <body>
+ 
 <title>probe</title>   <div>
 <p>
 <head>Probe</head>
-<br>
+<body>
+<div>
 <a href="https://www.freeimages.com/premium/comic-cartoon-spaceship-585751">pict</a>
     <button></button>
+</div>
 <br><br><br>  <script>
       function myFunction() {
         document.getElementById("demo").innerHTML = "Start";
