@@ -7,7 +7,7 @@
 <body>
 <div>
 <a href="https://www.freeimages.com/premium/comic-cartoon-spaceship-585751">pict</a>
-    <button></button>
+    <button>start</button>
 </div>
 <br><br><br>  <script>
       function myFunction() {
