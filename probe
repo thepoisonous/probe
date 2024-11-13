@@ -1,5 +1,24 @@
  <!DOCTYPE html>
-<html lang="eng"> 
+<html lang="eng"> <p class="normal">Initial letter is normal</p>
+<p class="onefive">Initial letter occupies 1.5 lines</p>
+<p class="three">Initial letter occupies 3 lines</p>.normal::first-letter {
+  -webkit-initial-letter: normal;
+  initial-letter: normal;
+}
+
+.onefive::first-letter {
+  -webkit-initial-letter: 1.5;
+  initial-letter: 1.5;
+}
+
+.three::first-letter {
+  -webkit-initial-letter: 3;
+  initial-letter: 3;
+}
+
+p {
+  outline: 1px dashed red;
+}
  <div>
 <title>probe</title>   
 <p>
